@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31674916196",
+    "project_id": "peaceomind-8b0fc",
+    "storage_bucket": "peaceomind-8b0fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31674916196:android:32c7d025f679d372beee71",
+        "android_client_info": {
+          "package_name": "com.example.peaceomind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31674916196-ttgvcp2amv75hrjoi6j0q73npf42otjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFDPQO0_I9BgApqEOL7uIiv0aI8BvrMOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31674916196-ttgvcp2amv75hrjoi6j0q73npf42otjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
